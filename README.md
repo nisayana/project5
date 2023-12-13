@@ -33,4 +33,5 @@ as a devDependency in your project <npm install cypress --save-dev>
 8. change setting.json file to add "cucumberautocomplete.steps": ["cypress/e2e/steps-definitions/*.js"]
 9. add "cypress-cucumber-preprocessor": {"stepDefinitions": "cypress/e2e/step-definitions/*.js"} into package.json file
 10. npm install eslint --save-dev
-11. create folders <features>, <pages>, <step-definitions>
+11. create folders features, pages, step-definitions
+    
